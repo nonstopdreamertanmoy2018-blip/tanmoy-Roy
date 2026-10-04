@@ -1,0 +1,6 @@
+{
+  "name": "Pond ERP - Aquaculture & Financial Accounting System",
+  "description": "Comprehensive Fish Farm Management and Double-Entry Accounting ERP with multi-role access, pond analytics, 3D visualizer, bilingual English/Bengali support, and financial statements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
